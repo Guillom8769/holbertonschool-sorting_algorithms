@@ -1,7 +1,5 @@
 #include "sort.h"
 
-void print_array(const int *array, size_t size);
-
 /**
  * lomuto_partition - Partition the array using the Lomuto partition scheme.
  *
